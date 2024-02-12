@@ -1,0 +1,1 @@
+web: dotnet <SsitemaClinico>.dll --urls=http://+:$PORT

@@ -1,0 +1,21 @@
+{
+    "short_name": "Metis",
+    "name": "Metis ~ Clínica IMET",
+    "description": "Metis ~ Clínica IMET",
+    "icons": [{
+            "src": "icono-metis-192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "icono-metis-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "/",
+    "background_color": "#3f747f",
+    "display": "fullscreen",
+    "scope": "/",
+    "theme_color": "#3f747f"
+}
